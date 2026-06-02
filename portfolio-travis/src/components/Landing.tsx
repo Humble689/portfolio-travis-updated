@@ -33,7 +33,7 @@ const Landing = ({ children }: PropsWithChildren) => {
               <Link className="landing-action primary" to="/myworks">
                 View Projects
               </Link>
-              <a className="landing-action secondary" href={config.contact.resume} target="_blank" rel="noopener noreferrer" download>
+              <a className="landing-action secondary" href={config.contact.resume} download="Lufene_Mark_Travis_Resume.pdf">
                 Download CV
               </a>
               <a className="landing-action secondary" href={`mailto:${config.contact.email}`}>
@@ -44,7 +44,7 @@ const Landing = ({ children }: PropsWithChildren) => {
 
           {/* Mobile photo - shows only on mobile when 3D character is hidden */}
           <div className="mobile-photo">
-            <img src="/images/mypicnbg.png" alt="Redoyanul Haque" />
+            <img src="/images/hero-photo.jpeg" alt="Redoyanul Haque" />
           </div>
         </div>
         {children}

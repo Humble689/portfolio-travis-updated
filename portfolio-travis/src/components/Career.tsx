@@ -32,11 +32,6 @@ const Career = () => {
                     <h4>Learning Something New</h4>
                     <h5>Self-Development</h5>
                     <h3>NOW</h3>
-                    <p>
-                      Continuously exploring emerging technologies, researching
-                      advanced AI systems, and pushing the boundaries of what's
-                      possible in tech.
-                    </p>
                   </div>
                 ) : (
                   <h3>{getDisplayYear(exp.period)}</h3>

@@ -30,18 +30,13 @@ export const config = {
             technologies: ["Digital Banking", "Data Analysis", "Process Documentation"]
         },
         {
-            position: "Data Quality Analyst (Volunteer)",
-            company: "Statistics Without Borders",
-            period: "Jan 2025 – Present",
+            position: "Learning Something New",
+            company: "Self-Development",
+            period: "Present",
             location: "Remote",
-            description: "##### Self-Development\n\n### NOW\n\nContinuously exploring emerging technologies, researching advanced AI systems, and pushing the boundaries of what's possible in tech.",
-            responsibilities: [
-                "Auditing and cleaning datasets for research accuracy",
-                "Applying statistical methods to identify anomalies",
-                "Collaborating with global volunteer teams",
-                "Contributing to open data initiatives"
-            ],
-            technologies: ["Python", "Pandas", "Statistics", "Data Cleaning"]
+            description: "NOW",
+            responsibilities: [],
+            technologies: []
         },
         {
             position: "Property Manager",
