@@ -1,0 +1,4 @@
+portfolio-travis/node_modules/
+portfolio-travis/dist/
+portfolio-travis/.vercel/
+*.log
